@@ -1,0 +1,22 @@
+
+body{
+    background-image: url(../Pic/image.jpg);
+}
+.cards-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    
+    
+
+    
+}
+
+.card-body{
+    font-size: small;
+    padding-bottom: 30px;
+}
+
